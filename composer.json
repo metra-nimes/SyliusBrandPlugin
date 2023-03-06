@@ -1,5 +1,5 @@
 {
-    "name": "loevgaard/sylius-brand-plugin",
+    "name": "metra/sylius-brand-plugin",
     "type": "sylius-plugin",
     "description": "A Sylius plugin for handling brands",
     "license": "MIT",
